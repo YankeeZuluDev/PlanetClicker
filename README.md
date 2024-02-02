@@ -1,5 +1,6 @@
 # PlanetClicker
-This is a coockie clicker clone game, made to show my ability to create web requests and implement firebase realtime database in Unity 
+This is a coockie clicker clone game, made to show my ability to create web requests and implement firebase realtime database in Unity
+
 The premise of the game is that you have to click on the planet and buy upgrades to destroy it 
 
 [:camera: **See Screenshots**](#screenshots)
