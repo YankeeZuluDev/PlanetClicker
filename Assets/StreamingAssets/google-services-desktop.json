@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "897523966200",
+    "firebase_url": "https://planetclicker-b789e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "planetclicker-b789e",
+    "storage_bucket": "planetclicker-b789e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897523966200:android:42f021cfdbe310e724db0d",
+        "android_client_info": {
+          "package_name": "com.YankeeZulu.PlanetClicker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUXji-05v73sxODWf13rZvg4IXG5YmUxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

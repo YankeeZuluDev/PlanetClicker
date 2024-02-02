@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23add28eb7c2cdd4b9343646f1b66560, type: 3}
+  m_Name: AliensUpgrade
+  m_EditorClassIdentifier: 
+  databaseID: 1
+  upgradeName: Alien Invasion
+  iconSprite: {fileID: 21300000, guid: 12cccf0fc5aba56428df9008d01972b0, type: 3}
+  damage: 10
+  description: Summon aliens to destroy the planet!
+  initialUpgradePrice: 100
+  rotatablePrefab: {fileID: 5875338995670974301, guid: b3e8bfda05d67cc408488c0b62e784a0, type: 3}
+  rotatableImage: {fileID: 21300000, guid: f0592a88da393f947a61a2438fd90016, type: 3}

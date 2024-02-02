@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="firebase_database_url" translatable="false">https://planetclicker-b789e-default-rtdb.europe-west1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">897523966200</string>
+  <string name="google_storage_bucket" translatable="false">planetclicker-b789e.appspot.com</string>
+  <string name="project_id" translatable="false">planetclicker-b789e</string>
+  <string name="google_api_key" translatable="false">AIzaSyAUXji-05v73sxODWf13rZvg4IXG5YmUxw</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAUXji-05v73sxODWf13rZvg4IXG5YmUxw</string>
+  <string name="google_app_id" translatable="false">1:897523966200:android:42f021cfdbe310e724db0d</string>
+</resources>

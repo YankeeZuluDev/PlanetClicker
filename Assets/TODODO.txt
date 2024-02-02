@@ -1,0 +1,3 @@
+
+- Backend: Firebase, azure playfab | Ads: unity ads, google ads
+- familiar with mvc 
