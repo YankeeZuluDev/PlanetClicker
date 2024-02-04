@@ -25,4 +25,6 @@ Accessibility: The google-services.json and Firebase SDK files have been intenti
 
 ### Use of Firebase realtime database for data storage
 
+### Use of UnityWebRequest for loading images from the Internet
+
 ### Dependency Injection
