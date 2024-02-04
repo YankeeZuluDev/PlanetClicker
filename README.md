@@ -4,7 +4,8 @@ This is a cookie clicker clone game, made to show my ability to create web reque
 The premise of the game is that you have to click on the planet and buy upgrades to destroy it 
 
 [:camera: **See Screenshots**](#screenshots)
-[:100: **Best code practices**](#screenshots)
+
+[:100: **Best code practices**](#Bestcodepracticesinthisproject)
 
 ## About the game
 Genre: clicker
