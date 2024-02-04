@@ -31,7 +31,7 @@ The [score system in this project](https://github.com/YankeeZuluDev/PlanetClicke
 
 [Utilizing the Firebase realtime database](https://github.com/YankeeZuluDev/PlanetClicker/tree/main/Assets/Scripts/GameDataIO) provides a seamless and reliable solution for data storage. This integration enables efficient data management and real-time updates.
 
-<img src="https://github.com/YankeeZuluDev/PlanetClicker/assets/129124150/9e784942-9f8e-4788-a997-cf99a901fd31" alt="screenshot_4">
+<img src="https://github.com/YankeeZuluDev/PlanetClicker/assets/129124150/9e784942-9f8e-4788-a997-cf99a901fd31" alt="screenshot_4" width="632" height="349">
 
 ### Use of UnityWebRequest class for Image Loading
 
