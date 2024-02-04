@@ -20,3 +20,9 @@ Accessibility: The google-services.json and Firebase SDK files have been intenti
 </div>
 
 ## Best code practices in this project
+
+### Use of MVC design pattern
+
+### Use of Firebase realtime database for data storage
+
+### Dependency Injection
