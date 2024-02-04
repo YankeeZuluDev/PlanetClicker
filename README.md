@@ -27,7 +27,7 @@ Accessibility: The google-services.json and Firebase SDK files have been intenti
 
 The [score system in this project](https://github.com/YankeeZuluDev/PlanetClicker/tree/main/Assets/Scripts/ScoreMVC) follows the Model-View-Controller (MVC) design pattern, promoting a clear and organized structure for scalable development.
 
-<img src="https://github.com/YankeeZuluDev/PlanetClicker/assets/129124150/42602fda-344f-4f40-908f-f7cd4de444b7" alt="screenshot_4">
+<img src="https://github.com/YankeeZuluDev/PlanetClicker/assets/129124150/42602fda-344f-4f40-908f-f7cd4de444b7" alt="screenshot_4" width="720" height="494">
 
 ### Firebase realtime database integration
 
