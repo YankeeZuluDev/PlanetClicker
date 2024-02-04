@@ -10,7 +10,7 @@ Genre: clicker
 
 Unity version: 2022.3.18f1 (LTS)
 
-Accessibility: The google-services.json and Firebase SDK files have been intentionally removed from this project due to security concerns. As a result, functionalities related to saving/loading data from my Firebase database within Unity Editor are currently disabled. However, the code related to saving and loading data uisng firebase realtime database is still available. Once this game is published on Google Play, you will be able to interact with my instance of the Firebase database
+Accessibility: The google-services.json and Firebase SDK files have been intentionally removed from this project due to security concerns. As a result, functionalities related to saving/loading data from my Firebase database within Unity Editor are currently disabled. However, the code related to saving and loading data uisng firebase realtime database is still available. Once this game is published on Google Play, you will be able to interact with my instance of the Firebase database.
 
 ## Screenshots
 <div style="display:flex;">
@@ -23,8 +23,16 @@ Accessibility: The google-services.json and Firebase SDK files have been intenti
 
 ### Use of MVC design pattern
 
-### Use of Firebase realtime database for data storage
+The score system in this project follows the Model-View-Controller (MVC) design pattern, promoting a clear and organized structure for scalable development.
 
-### Use of UnityWebRequest for loading images from the Internet
+### Firebase realtime database integration
+
+Utilizing the Firebase realtime database provides a seamless and reliable solution for data storage. This integration enables efficient data management and real-time updates.
+
+### Use of UnityWebRequest class for Image Loading
+
+The project uses Unity's UnityWebRequest class for loading images directly from the Internet.
 
 ### Dependency Injection
+
+The implementation of Zenject dependency injection framework enhances the project's flexibility and maintainability by promoting loosely coupled components. This practice facilitates extensibility, and overall code cohesion.
