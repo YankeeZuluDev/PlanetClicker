@@ -27,11 +27,13 @@ Accessibility: The google-services.json and Firebase SDK files have been intenti
 
 The [score system in this project](https://github.com/YankeeZuluDev/PlanetClicker/tree/main/Assets/Scripts/ScoreMVC) follows the Model-View-Controller (MVC) design pattern, promoting a clear and organized structure for scalable development.
 
+<img src="https://github.com/YankeeZuluDev/PlanetClicker/assets/129124150/42602fda-344f-4f40-908f-f7cd4de444b7" alt="screenshot_4">
+
 ### Firebase realtime database integration
 
 [Utilizing the Firebase realtime database](https://github.com/YankeeZuluDev/PlanetClicker/tree/main/Assets/Scripts/GameDataIO) provides a seamless and reliable solution for data storage. This integration enables efficient data management and real-time updates.
 
-<img src="https://github.com/YankeeZuluDev/PlanetClicker/assets/129124150/9e784942-9f8e-4788-a997-cf99a901fd31" alt="screenshot_4" width="632" height="349">
+<img src="https://github.com/YankeeZuluDev/PlanetClicker/assets/129124150/9e784942-9f8e-4788-a997-cf99a901fd31" alt="screenshot_5" width="632" height="349">
 
 ### Use of UnityWebRequest class for Image Loading
 
