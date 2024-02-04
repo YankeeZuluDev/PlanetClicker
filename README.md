@@ -5,7 +5,7 @@ The premise of the game is that you have to click on the planet and buy upgrades
 
 [:camera: **See Screenshots**](#screenshots)
 
-[:100: **Best code practices**](#bestcodepracticesinthisproject)
+[:100: **Best code practices**](#best code practices in this project)
 
 ## About the game
 Genre: clicker
