@@ -44,3 +44,7 @@ The project [uses Unity's UnityWebRequest class](https://github.com/YankeeZuluDe
 ### Dependency Injection
 
 [The implementation of Zenject dependency injection framework](https://github.com/YankeeZuluDev/PlanetClicker/blob/main/Assets/Scripts/Installers/GameInstaller.cs) enhances the project's flexibility and maintainability by promoting loosely coupled components. This practice facilitates extensibility, and overall code cohesion.
+
+### Object Pooling
+
+This project [uses object pooling](https://github.com/YankeeZuluDev/PlanetClicker/blob/main/Assets/Scripts/Pools/TextPool.cs) to efficiently manage and reuse gameobjects within the game. Object pooling minimizes the overhead of creating and destroying fading text objects dynamically, resulting in improved performance and reduced memory allocation.
