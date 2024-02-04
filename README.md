@@ -27,12 +27,12 @@ The [score system in this project](https://github.com/YankeeZuluDev/PlanetClicke
 
 ### Firebase realtime database integration
 
-Utilizing the Firebase realtime database provides a seamless and reliable solution for data storage. This integration enables efficient data management and real-time updates.
+[Utilizing the Firebase realtime database](https://github.com/YankeeZuluDev/PlanetClicker/tree/main/Assets/Scripts/GameDataIO) provides a seamless and reliable solution for data storage. This integration enables efficient data management and real-time updates.
 
 ### Use of UnityWebRequest class for Image Loading
 
-The project uses Unity's UnityWebRequest class for loading images directly from the Internet.
+The project [uses Unity's UnityWebRequest class](https://github.com/YankeeZuluDev/PlanetClicker/blob/main/Assets/Scripts/Other/URLImageLoader.cs) for loading images directly from the Internet.
 
 ### Dependency Injection
 
-The implementation of Zenject dependency injection framework enhances the project's flexibility and maintainability by promoting loosely coupled components. This practice facilitates extensibility, and overall code cohesion.
+[The implementation of Zenject dependency injection framework](https://github.com/YankeeZuluDev/PlanetClicker/blob/main/Assets/Scripts/Installers/GameInstaller.cs) enhances the project's flexibility and maintainability by promoting loosely coupled components. This practice facilitates extensibility, and overall code cohesion.
